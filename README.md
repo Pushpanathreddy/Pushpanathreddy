@@ -35,17 +35,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science and Engineering student at Lovely Professional University.
+🎓 **Computer Science Engineering student** at Lovely Professional University, focused on building practical software and data-driven solutions.
 
-💻 Passionate about Java, Python, SQL, Data Analytics, Machine Learning, and Software Development.
+💻 I enjoy developing applications using **Java, Python, SQL, and MySQL**, with a strong interest in backend development, databases, and problem solving.
 
-🗄️ Experienced in MySQL, SQL queries, database design, JDBC, and CRUD operations.
+🤖 Exploring **Machine Learning and AI** by building projects such as **AI Resume Screening** and recommendation-based applications.
 
-📊 Interested in Data Analytics and Business Intelligence using Pandas, NumPy, Matplotlib, Power BI, DAX, and Power Query.
+📊 I also work with **Data Analytics and Business Intelligence**, using **Pandas, NumPy, Matplotlib, Power BI, DAX, Power Query, and Excel** to transform data into meaningful insights.
 
-🚀 I enjoy building practical applications and solving problems using efficient and scalable solutions.
+🗄️ Comfortable with **database design, SQL queries, JDBC, CRUD operations, joins, and relational database concepts**.
 
-📚 Continuously improving my programming, database, and software development skills.
+🚀 My goal is to continuously improve my development skills while building **useful, scalable, and real-world applications**.
+
+🌱 Currently learning, experimenting, and turning ideas into projects through **GitHub**.
 
 ---
 
